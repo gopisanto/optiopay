@@ -1,5 +1,11 @@
 # This project is a Calulator for Decimals to Roman numbers and vice versa
 
+To run the project, please navigate to project folder and run below steps
+
+1) npm install
+2) npm start
+3) open web browser and type http://localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
